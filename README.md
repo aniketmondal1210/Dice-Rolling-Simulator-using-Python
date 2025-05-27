@@ -58,9 +58,9 @@ README.md             # Project documentation
 
 📃 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License].
 
 👨‍💻 Author
 
-Your Name (replace this with your name or GitHub handle)
+Aniket Mondal or aniketmondal1210
 
